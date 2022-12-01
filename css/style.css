@@ -1,0 +1,60 @@
+
+.icono{
+    background-color: white;
+}
+.footer {
+    background-color: white;
+
+}
+.PRESENTACION{
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    padding: 20px;
+    margin: 20px
+}
+h4 {
+    text-decoration: none;
+    text-align: center;
+}
+.contacto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.agendas2023{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.cuadernosrio {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.preguntas accordion accordion-flush {
+text-align: center;    
+padding-top: 20px;
+}
+.formucompra {
+    text-align: center;    
+    padding-top: 20px;
+    margin-top: 20px;
+    }
+
+    @media
+(min width: 768px) {
+
+
+
+        
+    }
